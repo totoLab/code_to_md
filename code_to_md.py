@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys, os, re, subprocess
 
 def log_err(msg):
